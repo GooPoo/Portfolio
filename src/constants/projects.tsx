@@ -8,7 +8,7 @@ export const PROJECTS = [
         title: "Wordle Clone",
         description: "A full-stack implementation of the Wordle game. This application allows users to play the popular word-guessing game, track their scores, and view leaderboards. It features real time multiplayer functionality, enabling users to compete against each other live. Additionally, the application provides APIs for creating custom agents to play and compete in the game.",
         img: wordle,
-        github: "#",
+        github: "https://github.com/GooPoo/Game-Website",
         deployedLink: "#",
         technologies: ["Flask", "SQLlite", "Python", "JavaScript"]
     },
