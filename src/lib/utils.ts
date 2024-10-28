@@ -8,7 +8,7 @@ export function cn(...inputs: ClassValue[]) {
 
 export function constructMetadata({
   title = "Benjamin Lee",
-  description = "Welcome to my web development portfolio! I'm Benjamin Lee, a skilled web developer specializing in full-stack development. Explore my innovative web solutions, responsive designs, and interactive applications built with HTML, CSS, JavaScript, React, Node.js, and more. Check out my projects and see how I can bring your digital vision to life.",
+  description = "Welcome to my development portfolio! I'm Benjamin Lee, a junior developer interested in web development and Java applications. Explore my innovative web solutions, responsive designs, and interactive applications built with HTML, CSS, JavaScript, React, Node.js, and more. Check out my projects and see how I can bring your digital vision to life.",
   image = "/image.jpg",
   icons = "/favicon.ico"
 }: {

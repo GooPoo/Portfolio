@@ -24,7 +24,7 @@ const WORDS = [
 const SOCIAL_MEDIA_HANDLES = [
   {
     name: "Github",
-    url: "#",
+    url: "https://github.com/GooPoo",
     icon: FaGithub,
   },
   {
@@ -51,11 +51,11 @@ const HeroSection = () => {
           Hi, I&apos;m Benjamin Lee
           <div className="inline-block animate-rotate text-4xl">👋</div>
         </h1>
-        <p className="max-w-prose px-10 text-xl sm:px-0">
+        <div className="max-w-prose px-10 text-xl sm:px-0">
           I&apos;m a passionate Computer Scientist with an interest in
           <br />
           <FlipWords duration={2000} words={WORDS} />
-        </p>
+        </div>
         <div className="mt-2 flex space-x-2">
           {SOCIAL_MEDIA_HANDLES.map((handle) => {
             const Icon = handle.icon;
