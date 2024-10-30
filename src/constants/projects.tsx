@@ -14,7 +14,7 @@ export const PROJECTS = [
     },
     {
         title: "PPO in Super Mario Bros",
-        description: "An implementation of the Proximal Policy Optimization (PPO) algorithm in the classic game Super Mario Bros. This Python-based project demonstrates a practical and educational perspective on applying machine learning in gaming. The repo contains all code (except the models) and a detailed report explaining the implementation of the PPO algorithm within the game context.",
+        description: "An implementation of the Proximal Policy Optimization (PPO) algorithm in the game Super Mario Bros. This Python project demonstrates a practical and educational perspective on applying machine learning in gaming. The repo contains all code and a detailed report explaining the implementation of the PPO algorithm within the game context.",
         img: PPO,
         github: "https://github.com/GooPoo/PPO_vs_RuleBased_Super_Mario_Bros",
         technologies: ["PyTorch", "Stable Baselines", "OpenAI Baselines", "Machine Learning"],
@@ -28,7 +28,7 @@ export const PROJECTS = [
     },
     {
         title: "Transperth Server Application",
-        description: "A server application that supports queries related to bus and train routes within the Transperth transport network. Created with using the standard TCP and UDP protocols operating over IP, as well as the communication between web browsers and application programs using HTTP and HTML. Additionally, implemented a simple text-based protocol for making and responding to queries for distributed information.",
+        description: "A server application that supports queries related to bus routes within a transport network. Created with using the standard TCP and UDP protocols operating over IP, as well as the communication between web browsers and application programs using HTTP and HTML.",
         img: TCP,
         github: "https://github.com/GooPoo/ComputerNetworksTrainServers",
         technologies: ["C", "TCP/UDP", "Low-level Programming", "UWA Project"],
