@@ -39,7 +39,7 @@ const SOCIAL_MEDIA_HANDLES = [
   },
   {
     name:"Resume",
-    url:"#",
+    url:"/documents/Resume_Benjamin_Lee-v1.2.pdf",
     icon: FileText
   }
 ];
@@ -49,7 +49,6 @@ const HeroSection = () => {
       <div className="text-center sm:ml-20 sm:text-left flex flex-col items-center sm:items-start">
         <h1 className="mb-2 text-5xl font-semibold">
           Hi, I&apos;m Benjamin Lee
-          <div className="inline-block animate-rotate text-4xl">👋</div>
         </h1>
         <div className="max-w-prose px-10 text-xl sm:px-0">
           I&apos;m a passionate Computer Scientist with an interest in
