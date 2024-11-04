@@ -29,7 +29,7 @@ const SOCIAL_MEDIA_HANDLES = [
   },
   {
     name: "LinkedIn",
-    url: "#",
+    url: "https://www.linkedin.com/in/benjamin-lee-252825336/",
     icon: FaLinkedin,
   },
   {
